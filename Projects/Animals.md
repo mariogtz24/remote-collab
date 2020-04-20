@@ -21,6 +21,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Macaws](#macaws)
 - [Moose](#moose)
 - [Otters](#otters)
+- [Pandas](#pandas)
 - [Pangolins](#pangolins)
 - [Penguins](#penguins)
 - [Polar Bears](#polar-bears)
@@ -144,6 +145,13 @@ Me trying to talk to my crush.
 ![Po](https://media.giphy.com/media/112TRnXkSiuGCQ/giphy.gif)
 
 Wait a minute...
+
+---
+
+![Buddies](https://media.giphy.com/media/QoCoLo2opwUW4/giphy.gif)
+
+An _embarrassment_ of pandas.
+
 
 ## Pangolins
 
