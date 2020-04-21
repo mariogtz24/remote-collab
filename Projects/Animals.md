@@ -91,6 +91,12 @@ Us as soon as they let us out.
 
 A foal taking its first pilates class.
 
+## Jaguars
+
+![Thirsty boy](https://media.giphy.com/media/110KJiYxmhEjL2/giphy.gif)
+
+A gentle giant takes a break.
+
 ## Llamas
 
 ![Tired llama](https://thumbs.gfycat.com/CoordinatedInnocentKudu-small.gif)
